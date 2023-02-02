@@ -5,8 +5,8 @@ Frontendda ham oz-moz xabarim bor<br>
 2018 yil **Universalbank** ga ishga kirganman, u yerda asosan bank xizmatlarini internetga olib chiqish bilan shug'illanganman.<br>
 Unired sistemasini boshlanishidagi yagona backend dasturchi bo'lganman.<br>
 2019-yil **Savdogarbank** ga ishga kirdim, bu yerda N-qulay sistemasini jamoa bilan birgalikda yozdik<br>
-2021-yil **Ipak yo'li bank**iga ishga o'tdim va hozirda bu yerda yangi rassrochka proekt ustida ishlamoqdaman.
-
+2021-yil **Ipak yo'li bank**iga ishga o'tdim va hozirda bu yerda Variant Retatil Finance uchun rassrochka sistema yozishda qatnashdim.
+2022-yil **Idea** da ishlamoqdaman. 
 
 <!--
 **RahmonovOtabek/RahmonovOtabek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
